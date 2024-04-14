@@ -13,6 +13,12 @@
 - 测试和反馈：您可以帮助测试项目，并提供反馈意见，帮助我们发现和修复问题。
 - 文档和翻译：贡献文档和翻译工作，帮助更多人理解和使用我们的项目。
 
+## 联系我们
+
+如果您有任何疑问、建议或合作意向，欢迎通过以下方式联系我们：
+
+- GitHub 讨论：https://github.com/PixelVoyagers/.github/discussions
+
 ## 友情链接
 - https://github.com/StarWorldTeam
 - https://github.com/Moonlark-Dev
